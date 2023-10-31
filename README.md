@@ -13,3 +13,5 @@ Followed this tutorial to build the app: https://www.tutorialspoint.com/spring_b
 - Spring Boot - JPA, Model, Repository
 - Consuming RESTful Web Services
 - Spring Boot - Scheduling
+
+For setting up the docker image, download the Dockerfile in this repo and the jar file from this link: https://drive.google.com/file/d/17eA0VaOwxJhTamNdIF9LT3kyQO68aYI6/view?usp=sharing
