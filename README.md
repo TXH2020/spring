@@ -1,6 +1,6 @@
 # spring
 
-Followed this totorial to build the app: https://www.tutorialspoint.com/spring_boot/
+Followed this tutorial to build the app: https://www.tutorialspoint.com/spring_boot/
 
 - Spring Boot - Runners
 - Spring Boot - Logging
